@@ -39,19 +39,19 @@ Creating a new product
 # Product API Documentation
 
 ## Create a Product
-![Create product Screenshot](src/main/resources/screen_shots/Screenshot_Create_Product.png)
+![Create product Screenshot](https://github.com/Fonbod1/Product-Management-Api/blob/main/product-inventory/src/main/resources/screen_shots/Screenshot_Create_Product.png?raw=true)
 
 ## Updating a Product
-![Update product Screenshot](src/main/resources/screen_shots/Screenshot_Product_Update.png)
+![Update product Screenshot](https://github.com/Fonbod1/Product-Management-Api/blob/main/product-inventory/src/main/resources/screen_shots/Screenshot_Product_Update.png?raw=true)
 
 ## View Product by ID
-![Get product by ID Screenshot](src/main/resources/screen_shots/Screenshot_Get_ProductBy_Id.png)
+![Get product by ID Screenshot](https://github.com/Fonbod1/Product-Management-Api/blob/main/product-inventory/src/main/resources/screen_shots/Screenshot_Get_ProductBy_Id.png?raw=true)
 
 ## View All Products
-![View All Products Screenshot](src/main/resources/screen_shots/Screenshot_Get_All_Product.png)
+![View All Products Screenshot](https://github.com/Fonbod1/Product-Management-Api/blob/main/product-inventory/src/main/resources/screen_shots/Screenshot_Get_All_Product.png?raw=true)
 
-## Delete a Product
-![Search Product Screenshot](src/main/resources/screen_shots/Screenshot_Search_a_Product.png)
+## Search a Product
+![Search Product Screenshot](https://github.com/Fonbod1/Product-Management-Api/blob/main/product-inventory/src/main/resources/screen_shots/Screenshot_Search_a_product.png?raw=true)
 
 
 #
