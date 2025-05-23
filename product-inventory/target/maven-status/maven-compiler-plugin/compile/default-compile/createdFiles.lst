@@ -1,0 +1,3 @@
+com/product/inventory/repository/ProductRepository.class
+com/product/inventory/model/Product.class
+com/product/inventory/configuration/OpenApiConfig.class
